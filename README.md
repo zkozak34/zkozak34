@@ -17,7 +17,6 @@
 [<img align="left" alt="zkozak2 | Instagram" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" />][instagram]
 [<img align="left" alt="zkozak2 | Twitter" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" />][Twitter]
 
-</br>
 ---
 
 ### Languages and Tools 🛠 

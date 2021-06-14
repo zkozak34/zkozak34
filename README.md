@@ -40,3 +40,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zkozak34&layout=compact" alt="zkozak34" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zkozak34&show_icons=true" alt="zkozak34" /></p>
+
+[instagram]: https://www.instagram.com/zkozak2
+[linkedin]: https://www.linkedin.com/in/zkozak2/
+[Twitter]: https://twitter.com/zkozak34

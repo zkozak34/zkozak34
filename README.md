@@ -13,9 +13,9 @@
 
 ### Contact with me 📝
 
-[<img align="left" alt="zkozak2 | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>][linkedin]
-[<img align="left" alt="zkozak2 | Instagram" height="30px" src="https://image.flaticon.com/icons/svg/725/725278.svg" />][instagram]
-[<img align="left" alt="zkozak2 | Spotify" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725281.svg" />][Spotify]
+[<img align="left" alt="zkozak2 | LinkedIn" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg"/>][linkedin]
+[<img align="left" alt="zkozak2 | Instagram" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" />][instagram]
+[<img align="left" alt="zkozak2 | Twitter" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" />][Twitter]
 
 ---
 
@@ -44,3 +44,4 @@
 [instagram]: https://www.instagram.com/zkozak2
 [linkedin]: https://www.linkedin.com/in/zkozak2/
 [Twitter]: https://twitter.com/zkozak34
+

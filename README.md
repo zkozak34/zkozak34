@@ -13,6 +13,10 @@
 
 ### Contact with me 📝
 
+[<img align="left" alt="zkozak2 | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>][linkedin]
+[<img align="left" alt="zkozak2 | Instagram" height="30px" src="https://image.flaticon.com/icons/svg/725/725278.svg" />][instagram]
+[<img align="left" alt="zkozak2 | Spotify" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725281.svg" />][Spotify]
+
 ---
 
 ### Languages and Tools 🛠 

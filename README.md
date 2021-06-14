@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zkozak34" alt="zkozak34" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/zkozak2" target="blank"><img src="https://img.shields.io/twitter/follow/zkozak2?logo=twitter&style=for-the-badge" alt="zkozak2" /></a> </p>
+<p align="left"> <a href="https://twitter.com/zkozak34" target="blank"><img src="https://img.shields.io/twitter/follow/zkozak34?logo=twitter&style=for-the-badge" alt="zkozak34" /></a> </p>
 
 - 🌱 I’m currently learning **Web security tool and CCNA level network**
 
@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/zkozak34" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zkozak2" height="30" width="40" /></a>
+<a href="https://twitter.com/zkozak34" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zkozak34" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/zkozak2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zkozak2" height="30" width="40" /></a>
 <a href="https://instagram.com/zkozak2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zkozak2" height="30" width="40" /></a>
 </p>
